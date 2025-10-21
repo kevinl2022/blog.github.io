@@ -2,6 +2,7 @@
 author = "Authors"
 title = "How to troubleshoot when encounter High NI cpu usage"
 date = "2025-10-09"
+description = "Troubleshoot NI CPU usage"
 tags = [
     "NI",
     "cpu",
