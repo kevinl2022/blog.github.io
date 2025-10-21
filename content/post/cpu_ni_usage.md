@@ -8,7 +8,7 @@ tags = [
     "cpu",
 ]
 +++
-#### How to troubleshoot when encounter High NI cpu usage
+
 
 Not necessarily 🙂 — adding more CPU cores is **one solution**, but it’s not the **only way**.
 What you’re seeing (`62.2% ni + 24.5% sy`) means **one process with a nice priority is dominating CPU**, and the kernel is busy servicing it.
