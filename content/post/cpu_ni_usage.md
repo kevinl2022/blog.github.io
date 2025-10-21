@@ -1,3 +1,12 @@
++++
+author = "Authors"
+title = "How to troubleshoot when encounter High NI cpu usage"
+date = "2025-10-09"
+tags = [
+    "NI",
+    "cpu",
+]
++++
 #### How to troubleshoot when encounter High NI cpu usage
 
 Not necessarily 🙂 — adding more CPU cores is **one solution**, but it’s not the **only way**.
